@@ -98,9 +98,9 @@ function About() {
 
               <p>
                 When I'm not coding, you'll find me exploring hiking trails,
-                experimenting with new recipes, or shooting photos/video.. I
+                experimenting with new recipes, or shooting photos/video. I
                 believe in continuous learning and staying curious about new
-                technologies and design trends.
+                tech and design trends.
               </p>
             </div>
           </div>

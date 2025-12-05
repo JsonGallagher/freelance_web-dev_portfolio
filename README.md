@@ -20,7 +20,7 @@ A modern, production-quality React portfolio website for web developers and free
 
 ## 📁 Project Structure
 
-```
+```text
 ├── public/
 │   └── favicon.svg
 ├── src/
