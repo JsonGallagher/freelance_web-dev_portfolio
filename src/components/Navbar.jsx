@@ -90,9 +90,9 @@ function Navbar() {
             className="font-display text-xl font-semibold text-primary-900
                        hover:text-accent-600 transition-colors duration-200"
           >
-            <span className="text-accent-500">{"{"}</span>
+            <span className="text-accent-500">{"{ "}</span>
             Jason Gallagher
-            <span className="text-accent-500">{"}"}</span>
+            <span className="text-accent-500">{" }"}</span>
           </a>
 
           {/* Desktop Navigation */}
