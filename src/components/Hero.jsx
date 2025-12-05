@@ -94,14 +94,6 @@ function Hero() {
                 aria-hidden="true"
               />
             </a>
-
-            <a
-              href="#portfolio"
-              className="btn-secondary text-lg px-8 py-4 group"
-            >
-              <HiOutlinePlay className="mr-2 w-5 h-5" aria-hidden="true" />
-              View My Work
-            </a>
           </div>
         </div>
 
